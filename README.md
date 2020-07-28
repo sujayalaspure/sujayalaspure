@@ -1,4 +1,3 @@
-
 # Hi, I'm Sujay ⚡
 
 Tech Enthusiast | Software Engineer
@@ -30,5 +29,6 @@ It's all folks
 <a target="_blank" href="https://www.codewars.com/users/alaspuresujay"><img align="middle" src="https://www.codewars.com/users/alaspuresujay/badges/large" alt="codewars badge large" /></a>
 <br>
 
+[![Open Source? Yes!](https://img.shields.io/badge/Open%20Source%3F-Yes-blue?style=plastic&logo=github)](https://github.com/alaspuresujay)
 
 
