@@ -13,13 +13,13 @@ I'm from Mumbai | India
 
 This is me, I love Exploring the new things, knowledge, Technologies, Ideas, New Places and much more.
 
-I have a site [here](https://alaspuresujay.github.io)
+I have a site [![My Site!](https://img.shields.io/badge/My%20Site-ClickMe-important?style=plastic&logo=github)](https://alaspuresujay.github.io)
 
 Programmer who makes some kludges.
 
 It's all folks
 <br><br><hr>
-## Social Media
+## Connect With me!
 [![Open Source? Yes!](https://img.shields.io/badge/Linked%20In-%20-9cf?style=plastic&logo=linkedin)](https://in.linkedin.com/in/alaspuresujay)
 [![Open Source? Yes!](https://img.shields.io/badge/Instagram-%20-orange?style=plastic&logo=instagram)](https://www.instagram.com/alaspuresujay)
 [![Open Source? Yes!](https://img.shields.io/badge/Facebook-%20-blue?style=plastic&logo=facebook)](http://www.facebook.com/alaspuresujay)
