@@ -1,19 +1,8 @@
 # Hi, I'm Sujay ⚡
 
 Tech Enthusiast | Software Engineer
-<p>
-<button style="  background-color: #4CAF50; /* Green */
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;opacity:1;cursor: not-allowed;">Normal Button</button>
-  </p>
-## About me
+
+## KnowMe Here!
 <p>
 <a href="">
 <button style="border: none;display: inline-block;cursor: pointer;  opacity:1;cursor: not-allowed;">
@@ -28,16 +17,16 @@ I'm from Mumbai | India
 
 This is me, I love Exploring the new things, knowledge, Technologies, Ideas, New Places and much more.
 
-I have a site [![My Site!](https://img.shields.io/badge/My%20Site-ClickMe-important?style=plastic&logo=github)](https://alaspuresujay.github.io)
+I have a site &emsp; [![My Site!](https://img.shields.io/badge/My%20Site-ClickMe-important?style=plastic&logo=github)](https://alaspuresujay.github.io)
 
 Programmer who makes some kludges.
 
 It's all folks
 <br><br><hr>
 ## Connect With me!
-[![Open Source? Yes!](https://img.shields.io/badge/Linked%20In-%20-9cf?style=plastic&logo=linkedin)](https://in.linkedin.com/in/alaspuresujay)
-[![Open Source? Yes!](https://img.shields.io/badge/Instagram-%20-orange?style=plastic&logo=instagram)](https://www.instagram.com/alaspuresujay)
-[![Open Source? Yes!](https://img.shields.io/badge/Facebook-%20-blue?style=plastic&logo=facebook)](http://www.facebook.com/alaspuresujay)
+[![Linked In!](https://img.shields.io/badge/Linked%20In-%20-9cf?style=plastic&logo=linkedin)](https://in.linkedin.com/in/alaspuresujay)
+[![Instagram!](https://img.shields.io/badge/Instagram-%20-orange?style=plastic&logo=instagram)](https://www.instagram.com/alaspuresujay)
+[![Facebook!](https://img.shields.io/badge/Facebook-%20-blue?style=plastic&logo=facebook)](http://www.facebook.com/alaspuresujay)
 
 ## Check me on Codewars
 <a target="_blank" href="https://www.codewars.com/users/alaspuresujay"><img align="middle" src="https://www.codewars.com/users/alaspuresujay/badges/large" alt="codewars badge large" /></a>
