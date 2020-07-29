@@ -4,7 +4,9 @@ Tech Enthusiast | Software Engineer
 
 ## About me
 <p>
+  <a href="#">
   <img width="200" alt="hello!" align="left" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/sujay.jpg">
+  </a>
 </p>
 
 Programing ❤️ | Electronics 💙 | Some Fun 💚
