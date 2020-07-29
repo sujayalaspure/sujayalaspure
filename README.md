@@ -4,8 +4,10 @@ Tech Enthusiast | Software Engineer
 
 ## About me
 <p>
-  <a href="">
-  <img width="200" alt="hello!" align="left" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/sujay.jpg">
+<a href="">
+<button style="border: none;display: inline-block;cursor: pointer;  opacity:1;cursor: not-allowed;">
+<img width="200" alt="hello!" align="left" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/sujay.jpg">
+  </button>
   </a>
 </p>
 
