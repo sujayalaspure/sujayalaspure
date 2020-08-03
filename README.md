@@ -6,7 +6,7 @@ Tech Enthusiast | Software Engineer
 <p>
 <a href="">
 <button style="border: none;display: inline-block;cursor: pointer;  opacity:1;cursor: not-allowed;">
-<img width="200" alt="hello!" align="left" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/sujay.jpg">
+<img width="150" height="200" alt="hello!" align="left" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/sujay.jpg">
   </button>
   </a>
 </p>
@@ -23,13 +23,15 @@ Programmer who makes some kludges.
 
 It's all folks
 <br><br>
-- 🔭 I’m currently working on a [![A lots of projects](https://img.shields.io/badge/A%20Lots%20of-Projects-blue)][website]!
+---
+
+- 🔭 I’m currently working on a [A lots of projects][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 <hr>
+
 ## Connect With me!
 [![Linked In!](https://img.shields.io/badge/Linked%20In-%20-9cf?style=plastic&logo=linkedin)](https://in.linkedin.com/in/alaspuresujay)
 [![Instagram!](https://img.shields.io/badge/Instagram-%20-orange?style=plastic&logo=instagram)](https://www.instagram.com/alaspuresujay)
