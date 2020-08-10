@@ -1,6 +1,6 @@
 # Hi, I'm Sujay ⚡
 
-Tech Enthusiast | Software Engineer
+A passionate Programmer | Techie | Engineer | Human Being
 
 ## KnowMe Here!
 
@@ -14,8 +14,6 @@ This is me, I love Exploring the new things, knowledge, Technologies, Ideas, New
 I have a site &emsp; [![My Site!](https://img.shields.io/badge/My%20Site-ClickMe-important?style=plastic&logo=github)](https://alaspuresujay.github.io)
 
 Programmer who makes some kludges.
-
-It's all folks
 
 ---
 
@@ -47,6 +45,8 @@ It's all folks
 <br>
 
 [![Open Source? Yes!](https://img.shields.io/badge/Open%20Source%3F-Yes-blue?style=plastic&logo=github)](https://github.com/alaspuresujay)
+
+It's all folks
 
 [github]: https://github.com/alaspuresujay
 [website]: https://alaspuresujay.github.io
