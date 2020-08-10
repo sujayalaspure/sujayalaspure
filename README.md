@@ -3,13 +3,7 @@
 Tech Enthusiast | Software Engineer
 
 ## KnowMe Here!
-<p>
-<a href="">
-<button style="border: none;display: inline-block;cursor: pointer;  opacity:1;cursor: not-allowed;">
-<img width="150" height="200" alt="hello!" align="left" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/sujay.jpg">
-  </button>
-  </a>
-</p>
+
 
 Programing ❤️ | Electronics 💙 | Some Fun 💚
 
@@ -23,7 +17,6 @@ Programmer who makes some kludges.
 
 It's all folks
 
-<br><br>
 ---
 
 - 🔭 I’m currently working on a [A lots of projects][website]!
@@ -31,7 +24,7 @@ It's all folks
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
-<hr>
+---
 
 ### Connect With me!
 [![Linked In!](https://img.shields.io/badge/Linked%20In-%20-9cf?style=plastic&logo=linkedin)](https://in.linkedin.com/in/alaspuresujay)
