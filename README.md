@@ -40,7 +40,7 @@ Programmer who makes some kludges.
 [<img align="left" alt="Esp8266" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/espressif_icon_130944.png" />][github]
 [<img align="left" alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/opencv.png" />][github]
 [<img align="left" alt="Selenium" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/selenium.png" />][github]
-[<img align="left" alt="Raspberry Pi" width="26px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" />][github]
+[<img align="left" alt="Raspberry Pi" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/raspberry_pi_icon_130847.png" />][github]
 [<img align="left" alt="React native" width="26px" src="https://miro.medium.com/max/384/1*To2H39eauxaeYxYMtV1afQ.png" />][github]
 <br>
 
