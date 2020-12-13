@@ -37,10 +37,10 @@ Programmer who makes some kludges.
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
 [<img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/jupyter.png" />][github]
 [<img align="left" alt="Pycharm" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/pycharm.png" />][github]
-[<img align="left" alt="C Language" width="26px" src="https://simpleicons.org/icons/c.svg" />][github]
+[<img align="left" alt="Esp8266" width="26px" src="https://i.imgur.com/eon65PY.png" />][github]
 [<img align="left" alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/opencv.png" />][github]
 [<img align="left" alt="Selenium" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/selenium.png" />][github]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
+[<img align="left" alt="Raspberry Pi" width="26px" src="https://assets.stickpng.com/images/584830fecef1014c0b5e4aa2.png" />][github]
 [<img align="left" alt="React native" width="26px" src="https://miro.medium.com/max/384/1*To2H39eauxaeYxYMtV1afQ.png" />][github]
 <br>
 
