@@ -18,7 +18,7 @@ Programmer who makes some kludges.
 ---
 
 - 🔭 I’m currently working on a [A lots of projects][website]!
-- 🌱 I’m currently learning [![My Site!](https://img.shields.io/badge/My%20Site-ClickMe-important?style=plastic&logo=github)](https://alaspuresujay.github.io)
+- 🌱 I’m currently learning [![My Site!](https://img.shields.io/badge/React-%20-9cf?style=plastic&logo=React)](https://alaspuresujay.github.io)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
