@@ -9,7 +9,7 @@ Programing ❤️ | Electronics 💙 | Some Fun 💚
 
 I'm from Mumbai | India
 
-This is me, I love Exploring the new things, knowledge, Technologies, Ideas, New Places and much more.
+I love Exploring the new things, knowledge, Technologies, Ideas, New Places and much more.
 
 
 Programmer who makes some kludges.
