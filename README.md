@@ -1,6 +1,6 @@
 # Hi, I'm Sujay ⚡
 
-A passionate Programmer | Techie | Engineer | Human Being
+A passionate Programmer | Techie | Engineer 
 
 ## KnowMe Here!
 
