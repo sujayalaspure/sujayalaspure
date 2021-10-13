@@ -19,7 +19,6 @@ Programmer who makes some kludges.
 ### Connect With me!
 [![Linked In!](https://img.shields.io/badge/Linked%20In-%20-9cf?style=plastic&logo=linkedin)](https://in.linkedin.com/in/alaspuresujay)
 [![Instagram!](https://img.shields.io/badge/Instagram-%20-orange?style=plastic&logo=instagram)](https://www.instagram.com/alaspuresujay)
-[![Facebook!](https://img.shields.io/badge/Facebook-%20-blue?style=plastic&logo=facebook)](http://www.facebook.com/alaspuresujay)
 [![Hackerrank!](https://img.shields.io/badge/HackerRank-%20-brightgreen?style=plastic&logo=HackerRank)](https://www.hackerrank.com/alaspuresujay)
 
 ### Languages and Tools:
