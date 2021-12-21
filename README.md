@@ -12,6 +12,8 @@ I'm from Mumbai | India
 I love Exploring the new things, knowledge, Technologies, Ideas, New Places and much more.
 
 
+[![Portfolio!](https://img.shields.io/badge/Portfolio-blue?style=plastic&logo=github)](https://alaspuresujay.github.io)
+
 Programmer who makes some kludges.
 
 ---
@@ -31,8 +33,7 @@ Programmer who makes some kludges.
 [<img align="left" alt="Selenium" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/selenium.png" />][github]
 [<img align="left" alt="Raspberry Pi" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/raspberry_pi_icon_130847.png" />][github]
 [<abbr title="React"><img align="left" alt="React" width="26px" src="https://miro.medium.com/max/384/1*To2H39eauxaeYxYMtV1afQ.png" /></abbr>][github]
-[<abbr title="React native"><img align="left" alt="React native" width="26px" src="https://uireactnative.com/wp-content/uploads/2019/04/react-native-logo.png" /></abbr>][github]
-
+[<img align="left" alt="React native" width="26px" src="https://uireactnative.com/wp-content/uploads/2019/04/react-native-logo.png" />][github]
 <br>
 
 
