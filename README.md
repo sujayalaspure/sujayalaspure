@@ -28,12 +28,10 @@ Programmer who makes some kludges.
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/python.png" />][github]
 
-[<img align="left" alt="Esp8266" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/espressif_icon_130944.png" />][github]
 [<img align="left" alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/opencv.png" />][github]
 [<img align="left" alt="Selenium" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/selenium.png" />][github]
 [<img align="left" alt="Raspberry Pi" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/raspberry_pi_icon_130847.png" />][github]
 [<img align="left" alt="React" width="26px" src="https://miro.medium.com/max/384/1*To2H39eauxaeYxYMtV1afQ.png" />][github]
-[<img align="left" alt="React native" width="26px" src="https://uireactnative.com/wp-content/uploads/2019/04/react-native-logo.png" />][github]
 <br>
 
 It's all folks
