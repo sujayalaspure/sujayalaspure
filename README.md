@@ -1,7 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/avrcoelho/avrcoelho/master/andrecoelho.dev.png" width="500"
-  alt="andrecoelho.dev" />
+  
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/logo_dark.png">
+  <img width="500" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/logo_light.png">
+</picture>
 </p>
+
 <p align="center">
 Programmer | Techie | Engineer 
 </p>
@@ -33,7 +37,7 @@ Programmer | Techie | Engineer
 <!-- [![Hackerrank!](https://img.shields.io/badge/HackerRank-%20-brightgreen?style=plastic&logo=HackerRank)](https://www.hackerrank.com/alaspuresujay) -->
 
 
-### Languages and Tools:
+<p align="center">
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/python.png" />][github]
@@ -42,9 +46,9 @@ Programmer | Techie | Engineer
 [<img align="left" alt="Selenium" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/selenium.png" />][github]
 [<img align="left" alt="Raspberry Pi" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/raspberry_pi_icon_130847.png" />][github]
 [<img align="left" alt="React" width="26px" src="https://miro.medium.com/max/384/1*To2H39eauxaeYxYMtV1afQ.png" />][github]
-<br>
 
-It's all folks
+  
+  </p>
 
 [github]: https://github.com/alaspuresujay
 [website]: https://alaspuresujay.github.io
