@@ -11,8 +11,7 @@ Programmer | Techie | Engineer
 </p>
 
 <p align="center">
-  
-🚀 Javascript | Typescript | ReactJS | React Native | NodeJS | ElectronJS | GraphQL | SQL | NoSQL | HTML | CSS | GIT
+🚀 Javascript | Typescript | ReactJS | React Native | NodeJS | Firebase | GraphQL | HTML | CSS | GIT
 </p>
 
 ---
