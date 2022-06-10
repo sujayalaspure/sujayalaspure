@@ -14,6 +14,9 @@ Programmer | Techie | Engineer
   
 🚀 Javascript | Typescript | ReactJS | React Native | NodeJS | ElectronJS | GraphQL | SQL | NoSQL | HTML | CSS | GIT
 </p>
+
+---
+
 <p align="center">
   <a href="https://in.linkedin.com/in/alaspuresujay" alt="LinkedIn/alaspuresujay">
     <img src="https://img.shields.io/badge/LinkedIn-%20-blue?style=flat&logo=Linkedin&logoColor=white" />
@@ -30,25 +33,15 @@ Programmer | Techie | Engineer
 
 ---
 
-<!-- ### Connect With me!
-[![Instagram!](https://img.shields.io/badge/Instagram-%20-orange?style=flat&logo=instagram)](https://www.instagram.com/alaspuresujay)
-[![Leetcode!](https://img.shields.io/badge/Leetcode-%20-orange?style=flat&logo=LeetCode)](https://leetcode.com/alaspuresujay/) -->
-
-<!-- [![Hackerrank!](https://img.shields.io/badge/HackerRank-%20-brightgreen?style=plastic&logo=HackerRank)](https://www.hackerrank.com/alaspuresujay) -->
-
-
 <p align="center">
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/python.png" />][github]
-
-[<img align="left" alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/opencv.png" />][github]
-[<img align="left" alt="Selenium" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/selenium.png" />][github]
-[<img align="left" alt="Raspberry Pi" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/raspberry_pi_icon_130847.png" />][github]
-[<img align="left" alt="React" width="26px" src="https://miro.medium.com/max/384/1*To2H39eauxaeYxYMtV1afQ.png" />][github]
-
-  
-  </p>
+  <a  href="#" alt="React"><img  alt="React" width="26px" src="https://miro.medium.com/max/384/1*To2H39eauxaeYxYMtV1afQ.png" /></a>&nbsp;&nbsp;
+    <a  href="#" alt="React"><img  alt="React" width="26px"  src="https://user-images.githubusercontent.com/31307865/173113522-8b3bea84-6f51-4724-8c52-23fb58d17a51.jpg  " /></a>&nbsp;&nbsp;
+  <a href="#" alt="VS code"><img  alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>&nbsp;&nbsp;
+  <a href="#" alt="Python"><img  alt="Python" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/python.png" /></a>&nbsp;&nbsp;
+  <a href="#" alt="OpenCV"><img  alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/opencv.png" /></a>&nbsp;&nbsp;
+  <a href="#" alt="Selenium"><img  alt="Selenium" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/selenium.png" /></a>&nbsp;&nbsp;
+  <a href="#" alt="RPi"><img  alt="Raspberry Pi" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/raspberry_pi_icon_130847.png" /></a>
+</p>&nbsp;&nbsp;
 
 [github]: https://github.com/alaspuresujay
 [website]: https://alaspuresujay.github.io
