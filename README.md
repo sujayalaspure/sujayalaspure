@@ -34,13 +34,14 @@ Programmer | Techie | Engineer
 
 <p align="center">
   <a  href="#" alt="React"><img  alt="React" width="26px" src="https://miro.medium.com/max/384/1*To2H39eauxaeYxYMtV1afQ.png" /></a>&nbsp;&nbsp;
+    <a href="#" alt="Typescript"><img  alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" /></a>
+</p>&nbsp;&nbsp;
     <a  href="#" alt="React"><img  alt="React" width="26px"  src="https://user-images.githubusercontent.com/31307865/173113522-8b3bea84-6f51-4724-8c52-23fb58d17a51.jpg  " /></a>&nbsp;&nbsp;
   <a href="#" alt="VS code"><img  alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>&nbsp;&nbsp;
   <a href="#" alt="Python"><img  alt="Python" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/python.png" /></a>&nbsp;&nbsp;
   <a href="#" alt="OpenCV"><img  alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/opencv.png" /></a>&nbsp;&nbsp;
   <a href="#" alt="Selenium"><img  alt="Selenium" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/selenium.png" /></a>&nbsp;&nbsp;
-  <a href="#" alt="RPi"><img  alt="Raspberry Pi" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/raspberry_pi_icon_130847.png" /></a>
-</p>&nbsp;&nbsp;
+
 
 [github]: https://github.com/alaspuresujay
 [website]: https://alaspuresujay.github.io
