@@ -41,9 +41,8 @@ Programmer | Techie | Engineer
   <a href="#" alt="Python"><img  alt="Python" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/python.png" /></a>&nbsp;&nbsp;
   <a href="#" alt="OpenCV"><img  alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/opencv.png" /></a>&nbsp;&nbsp;
   <a href="#" alt="Selenium"><img  alt="Selenium" width="26px" src="https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/selenium.png" /></a>&nbsp;&nbsp;
-    <a href="#" alt="Redux"><img  alt="Redux" width="26px" src="[https://raw.githubusercontent.com/alaspuresujay/alaspuresujay/master/img/selenium.png](https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png)" /></a>&nbsp;&nbsp;
+    
 </p>
 
 [github]: https://github.com/alaspuresujay
 [website]: https://alaspuresujay.github.io
-![](https://hit.yhype.me/github/profile?user_id=31307865)
