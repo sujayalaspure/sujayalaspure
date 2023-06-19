@@ -1,4 +1,6 @@
-# Sujay Alaspure
+<p align="center">
+  <h1 align="center"> Sujay Alaspure</h1>
+</p>
 
 <p align="center">
   <picture>
