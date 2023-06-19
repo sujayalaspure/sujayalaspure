@@ -1,13 +1,15 @@
 <p align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="img/logo_dark.png">
-  <img width="500" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="img/logo_light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./img/logo_dark.png">
+  <img width="500" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="./img/logo_light.png">
 </picture>
 </p>
 
 <p align="center">
 Programmer | Techie | Engineer 
 </p>
+
+
 
 <p align="center">
 🚀 Javascript | Typescript | ReactJS | React Native | NodeJS | Firebase | GraphQL | HTML | CSS | GIT
@@ -33,7 +35,7 @@ Programmer | Techie | Engineer
   <a href="#" alt="VS code"><img  alt="Visual Studio Code" width="26px" src="img/vscode.png" /></a>&nbsp;&nbsp;
   <!-- <a href="#" alt="OpenCV"><img  alt="OpenCV" width="26px" src="img/opencv.png" /></a>&nbsp;&nbsp; -->
   <a href="#" alt="Kotlin"><img  alt="Kotlin" width="26px" src="img/kotlin.png" /></a>&nbsp;&nbsp;
-  <a href="#" alt="Swift"><img  alt="Swift" width="26px" src="img/swift.png" /></a>&nbsp;&nbsp;
+  <a href="#" alt="Swift"><img  alt="Swift" width="26px" src="./img/swift.png" /></a>&nbsp;&nbsp;
     
 </p>
 
