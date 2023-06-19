@@ -32,13 +32,13 @@ Programmer | Techie | Engineer
 ---
 
 <p align="center">
-  <a  href="#" alt="React"><img  alt="React" width="26px" src="https://miro.medium.com/max/384/1*To2H39eauxaeYxYMtV1afQ.png" /></a>&nbsp;&nbsp;
-    <a href="#" alt="Typescript"><img  alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" /></a>
+  <a  href="#" alt="React"><img  alt="React Native" width="26px" src="https://img.icons8.com/color/48/react-native.png" /></a>&nbsp;&nbsp;
+    <a href="#" alt="Typescript"><img  alt="Typescript" width="26px" src="https://img.icons8.com/color/48/typescript.png" /></a>
 &nbsp;&nbsp;
-    <a  href="#" alt="React"><img  alt="React" width="26px"  src="https://user-images.githubusercontent.com/31307865/173113522-8b3bea84-6f51-4724-8c52-23fb58d17a51.jpg  " /></a>&nbsp;&nbsp;
+    <a  href="#" alt="Javascript"><img  alt="javascript" width="26px"  src="https://img.icons8.com/color/48/javascript--v1.png" /></a>&nbsp;&nbsp;
   <a href="#" alt="VS code"><img  alt="Visual Studio Code" width="26px" src="https://code.visualstudio.com/assets/images/code-stable.png" /></a>&nbsp;&nbsp;
   <!-- <a href="#" alt="OpenCV"><img  alt="OpenCV" width="26px" src="img/opencv.png" /></a>&nbsp;&nbsp; -->
-  <a href="#" alt="Kotlin"><img  alt="Kotlin" width="26px" src="https://kotlinlang.org/docs/images/kotlin-logo.png" /></a>&nbsp;&nbsp;
+  <a href="#" alt="Kotlin"><img  alt="Kotlin" width="26px" src="https://img.icons8.com/color/48/kotlin.png" /></a>&nbsp;&nbsp;
   <a href="#" alt="Swift"><img  alt="Swift" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/23-swift-1024.png" /></a>&nbsp;&nbsp;
     
 </p>
