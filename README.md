@@ -1,8 +1,7 @@
 <p align="center">
-  
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujayalaspure/sujayalaspure/master/img/logo_dark.png">
-  <img width="500" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/sujayalaspure/sujayalaspure/master/img/logo_light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="img/logo_dark.png">
+  <img width="500" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="img/logo_light.png">
 </picture>
 </p>
 
@@ -31,10 +30,10 @@ Programmer | Techie | Engineer
     <a href="#" alt="Typescript"><img  alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" /></a>
 &nbsp;&nbsp;
     <a  href="#" alt="React"><img  alt="React" width="26px"  src="https://user-images.githubusercontent.com/31307865/173113522-8b3bea84-6f51-4724-8c52-23fb58d17a51.jpg  " /></a>&nbsp;&nbsp;
-  <a href="#" alt="VS code"><img  alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>&nbsp;&nbsp;
-  <a href="#" alt="Python"><img  alt="Python" width="26px" src="https://raw.githubusercontent.com/sujayalaspure/sujayalaspure/master/img/python.png" /></a>&nbsp;&nbsp;
-  <a href="#" alt="OpenCV"><img  alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/sujayalaspure/sujayalaspure/master/img/opencv.png" /></a>&nbsp;&nbsp;
-  <a href="#" alt="Selenium"><img  alt="Selenium" width="26px" src="https://raw.githubusercontent.com/sujayalaspure/sujayalaspure/master/img/selenium.png" /></a>&nbsp;&nbsp;
+  <a href="#" alt="VS code"><img  alt="Visual Studio Code" width="26px" src="img/vscode.png" /></a>&nbsp;&nbsp;
+  <!-- <a href="#" alt="OpenCV"><img  alt="OpenCV" width="26px" src="img/opencv.png" /></a>&nbsp;&nbsp; -->
+  <a href="#" alt="Kotlin"><img  alt="Kotlin" width="26px" src="img/kotlin.png" /></a>&nbsp;&nbsp;
+  <a href="#" alt="Swift"><img  alt="Swift" width="26px" src="img/swift.png" /></a>&nbsp;&nbsp;
     
 </p>
 
