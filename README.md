@@ -1,8 +1,4 @@
 <p align="center">
-  <h1 align="center"> Sujay Alaspure</h1>
-</p>
-
-<p align="center">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./img/logo_dark.png">
   <img width="500" alt="" src="./img/logo_light.png">
